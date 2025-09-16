@@ -23,13 +23,3 @@ I'm a **software developer with a background in electrical engineering**, curren
 - 🧵 **get_next_line** – Buffered line-by-line file reader using custom memory management.
 - 🧱 **Born2BeRoot** – System admin project setting up a secure Linux VM with firewall rules, LVM, and user permissions.
 
-See more projects on my [GitHub »](https://github.com/HoferJPaul)
-
----
-
-### 🧑‍💻 What I'm Great At
-
-✅ **Analytical thinking** — I break down complex problems into clean, testable solutions  
-✅ **Systems perspective** — From bits and registers to memory management and user input  
-✅ **Discipline & reliability** — I thrive in high-pressure environments and never ghost projects  
-✅ **Collaborative mindset** — I value good communication, mentorship, and team dynamics  
